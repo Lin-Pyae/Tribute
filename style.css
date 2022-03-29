@@ -59,6 +59,7 @@ max-width: 100%;
 margin: 0 auto;
 display: block;
 box-shadow: 20px 10px 20px  rgb(114, 111, 111);
+border-radius: 10%;
 }
 
 #img-caption{
