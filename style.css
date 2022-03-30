@@ -79,6 +79,7 @@ font-size: 20px;
   display: flex;
   align-items: center;
   text-align: center;
+  margin-top: 50px;
 }
 
 .ballon::before{
@@ -118,6 +119,14 @@ font-size: 20px;
 margin-top: 50px;
 
 text-align: center;
+}
+
+.infolist{
+  display: inline-block;
+}
+
+li{
+margin: 20px 0;
 }
 
 .learnMore{
